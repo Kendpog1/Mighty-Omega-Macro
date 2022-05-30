@@ -4,8 +4,8 @@
 SetBatchLines, -1
 CoordMode, Pixel, Window
 CoordMode, Mouse, Window
-url:="bruh" ; use the url from Discord webhook bot
-userid:="<@userid>" ; Copy ID from discord
+url:="https://discord.com/api/webhooks/980678165364088942/PlHk-AnTbYdLo-Yj6iyUQtdmo56KOkRMLFR5KFz991K00amxjQjzj3xv9ti4flMNeb6Q" ; use the url from Discord webhook bot
+userid:="<@829715672417435688>" ; Copy ID from discord
 ; True, False
 autorhythm = false
 flow = True
